@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0f64433-a07f-49b8-bf86-548a65c19a0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/AlunoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/HeroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/IidaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/KaminariController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/KirishimaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/MidoriyaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/MirioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/PretinhoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/TodorokiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/TokoyamiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/TsuyuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/UrarakaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/controller/YayorozuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/model/AlunoModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/java/com/exemplosestudosdois/demo/exemplosestudosdois/model/HeroModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.exemplos-estudos-dois/src/main/resources/templates/TelaEntrada.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-estudos/src/main/java/com/artur/exemploestudos/controllers/AlunoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-estudos/src/main/java/com/artur/exemploestudos/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-estudos/src/main/java/com/artur/exemploestudos/models/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-estudos/src/main/resources/templates/artur.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemplo-estudos/src/main/resources/templates/inicial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/src/main/java/com/digitalinnovationone/springboot/Controller/HelloController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1meIYZSgag5LVn7CkvVxx9FnHpY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0f64433-a07f-49b8-bf86-548a65c19a0b" name="Default Changelist" comment="" />
+      <created>1609847736136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609847736136</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
